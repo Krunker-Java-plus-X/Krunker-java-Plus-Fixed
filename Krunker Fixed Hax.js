@@ -3,7 +3,7 @@
 // @namespace   KrunkerJava Plus 𝓧v5
 // @version      5.0
 // @description  Get first place in game!
-// @author       therealsimp
+// @author       Krunker Jav
 // @require      https://raw.githubusercontent.com/ygoe/msgpack.js/master/msgpack.min.js
 // @match        *://krunker.io/*
 // @run-at       document-start
